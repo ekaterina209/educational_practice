@@ -1,0 +1,2 @@
+C:\Codding 2024\Алгоритмические языки\Лабораторные\Lab2\UnitTests\x64\Debug\UnitTests.vcxproj.AssemblyReference.cache
+C:\Codding 2024\Алгоритмические языки\Лабораторные\Lab2\UnitTests\x64\Debug\UnitTests.vcxproj.Up2Date
